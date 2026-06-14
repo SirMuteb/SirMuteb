@@ -1,20 +1,20 @@
-# whoami
+```javascript
+const muteb = {
+  location: "Saudi Arabia 🇸🇦",
+  role: "Computer Science Student",
+  focus: ["Frontend", "Web Development"],
+  currentlyLearning: [
+    "React",
+    "Next.js",
+    "UI/UX"
+  ],
+  interests: [
+    "Building Web Apps",
+    "Clean Design",
+    "Problem Solving"
+  ],
+  status: "Turning ideas into websites"
+};
 
-```bash
-> whoami
-
-Muteb
-Computer Science Student
-
-Skills:
-├── HTML
-├── CSS
-├── JavaScript
-└── Git
-
-Current Focus:
-└── Modern Web Development
-
-Status:
-└── Building and learning every day
+export default muteb;
 ```
